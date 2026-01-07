@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://drgolo.github.io/al-folio/sitemap.xml
+Sitemap: https://drgolo.github.io/sitemap.xml
