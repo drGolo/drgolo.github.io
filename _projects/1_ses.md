@@ -59,5 +59,5 @@ SES data is deposited with the [UK Data Service](http://doi.org/10.5255/UKDA-SN-
 
 {% bibliography --cited %}
 
-### Image Credits
-Header image by [Boris Thaser](https://www.flickr.com/photos/boristhaser/26662376110/in/faves-184941206@N04/), licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+---
+*Header image: "Symmetrie / Symmetry" by [Boris Thaser](https://www.flickr.com/photos/boristhaser/26662376110/in/faves-184941206@N04/), licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). No changes made.*
