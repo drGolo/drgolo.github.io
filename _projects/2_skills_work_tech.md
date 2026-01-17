@@ -2,7 +2,7 @@
 layout: page
 title: Skills, Work and Technology
 description: How technological change reshapes skills demand, job quality, and labour market inequality
-img: assets/img/ses.jpg
+img: assets/img/zenith.jpg
 importance: 2
 category: work
 related_publications: true
