@@ -58,3 +58,6 @@ SES data is deposited with the UK Data Service and available for research use. T
 ## Selected Publications
 
 {% bibliography --cited %}
+
+### Image Credits
+Header image by [Patrick Hoesly](https://www.flickr.com/photos/zooboing/4241390495/in/faves-184941206@N04/), licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
