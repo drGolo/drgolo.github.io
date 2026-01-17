@@ -65,8 +65,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "projects-skills-and-employment-survey",
-          title: 'Skills and Employment Survey',
+            },{id: "projects-skills-and-employment-surveys",
+          title: 'Skills and Employment Surveys',
           description: "Major series of repeated cross-sectional surveys tracking job quality and skills in Britain",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_ses/";
