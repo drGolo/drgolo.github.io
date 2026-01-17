@@ -78,4 +78,4 @@ This work informs policy debates about:
 
 ---
 
-*Header image: "Zenith Z-19 Terminal" by [FlipFlopFlorida](https://www.flickr.com/photos/ajmexico/3281139507/in/faves-184941206@N04/), licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). No changes made.*
+*Header image: "Zenith Z-19 Terminal" by [FlipFlopFlorida](https://www.flickr.com/photos/ajmexico/3281139507/), licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). No changes made.*
