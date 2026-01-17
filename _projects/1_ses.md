@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Skills and Employment Survey
-description: Major longitudinal study tracking job quality and skills in Britain
-img: 
+description: Major series of repeated cross-sectional surveys tracking job quality and skills in Britain
+img: assets/img/ses.jpg
 importance: 1
 category: work
 related_publications: true
