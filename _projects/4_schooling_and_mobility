@@ -1,0 +1,64 @@
+---
+layout: page
+title: Schooling and Social Mobility
+description: Education systems, transitions to work, and intergenerational mobility
+img: 
+importance: 4
+category: research
+related_publications: true
+---
+
+## Overview
+
+This research examines how education systems shape life chances and facilitate (or hinder) social mobility. Drawing on comparative education research and labour market analysis, I investigate school-to-work transitions, higher education access, and the relationship between educational credentials and economic outcomes.
+
+## Key Research Questions
+
+- **Education and Labour Market Outcomes**: How do different educational pathways lead to varied labour market success?
+- **Higher Education Returns**: How do returns to university education vary across subjects, institutions, and student backgrounds?
+- **Intergenerational Mobility**: To what extent does education facilitate social mobility across generations?
+- **Educational Inequality**: How does socioeconomic background influence educational access, attainment, and the conversion of qualifications into labour market success?
+
+## Research Focus Areas
+
+### Graduate Labour Market Transitions
+
+Examining how graduates transition into employment, the match between education and occupations, and early career progression patterns. This work connects to broader questions about graduate underemployment, skills mismatch, and whether higher education expansion has changed the value of degrees.
+
+### Educational Inequality and Social Mobility
+
+Investigating how socioeconomic background influences educational access, attainment, and the conversion of qualifications into labour market success. This includes analysis of:
+- Widening participation in higher education
+- Social class gaps in educational attainment
+- The role of elite universities in social reproduction
+- Intergenerational earnings mobility and the role of education
+
+### School-to-Work Transitions
+
+Understanding the pathways young people take from education into employment, including:
+- The effectiveness of vocational and technical education routes
+- Early career trajectories and job matching
+- The role of careers guidance and labour market information
+
+## Methodological Approaches
+
+- Longitudinal cohort studies tracking education and employment trajectories
+- Linked administrative data on educational attainment and earnings
+- Comparative analysis of education systems and labour market institutions
+- Survey-based studies of skills use and job quality
+
+## Policy Implications
+
+This research informs debates about:
+- Effectiveness of widening participation initiatives in higher education
+- Design of vocational and technical education pathways
+- Links between education policy and social mobility outcomes
+- The changing value of educational credentials in the labour market
+
+## Collaborations
+
+This work involves collaborations with the LLAKES Research Centre and the Centre for Global Higher Education at UCL, as well as partnerships with national statistical agencies and education researchers internationally.
+
+## Selected Publications
+
+{% bibliography --cited %}
