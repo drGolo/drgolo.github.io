@@ -67,7 +67,7 @@ ninja.data = [{
               },
             },{id: "projects-skills-and-employment-survey",
           title: 'Skills and Employment Survey',
-          description: "Major longitudinal study tracking job quality and skills in Britain",
+          description: "Major series of repeated cross-sectional surveys tracking job quality and skills in Britain",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_ses/";
             },},{id: "projects-skills-work-and-technology",
