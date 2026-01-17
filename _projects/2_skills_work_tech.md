@@ -2,7 +2,7 @@
 layout: page
 title: Skills, Work and Technology
 description: How technological change reshapes skills demand, job quality, and labour market inequality
-img: 
+img: assets/img/ses.jpg
 importance: 2
 category: work
 related_publications: true
@@ -23,7 +23,7 @@ This research examines the intersection of skills, technological change, and lab
 
 ### Generative AI and Work
 
-My recent work on **generative AI exposure** reveals that unlike previous automation waves, GenAI has the potential to affect high-skill, cognitive occupations. Professional and managerial workers - including researchers, lawyers, and analysts - face significant exposure. This challenges assumptions that university education provides robust protection against technological displacement.
+My recent work on **generative AI exposure** suggests that unlike previous automation waves, GenAI has the potential to affect high-skill, cognitive occupations. Professional and managerial workers - including researchers, lawyers, and analysts - face significant exposure. This challenges assumptions that university education provides robust protection against technological displacement.
 
 Key findings:
 - Exposure to GenAI is concentrated among high-skill workers
