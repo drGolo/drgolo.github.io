@@ -53,7 +53,7 @@ The survey provides the empirical foundation for evidence-based policy discussio
 
 ## Data Access
 
-SES data is deposited with the UK Data Service and available for research use. The survey has been used by hundreds of researchers across disciplines including economics, sociology, management, and education.
+SES data is deposited with the [UK Data Service](http://doi.org/10.5255/UKDA-SN-8590-1) and available for research use. The survey has been used by hundreds of researchers across disciplines including economics, sociology, management, and education.
 
 ## Selected Publications
 
