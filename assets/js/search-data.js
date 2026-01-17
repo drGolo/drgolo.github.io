@@ -65,11 +65,26 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+            },{id: "projects-skills-and-employment-survey",
+          title: 'Skills and Employment Survey',
+          description: "Major longitudinal study tracking job quality and skills in Britain",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_ses/";
+            },},{id: "projects-skills-work-and-technology",
+          title: 'Skills, Work and Technology',
+          description: "How technological change reshapes skills demand, job quality, and labour market inequality",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_skills_work_tech/";
+            },},{id: "projects-wellbeing",
+          title: 'Wellbeing',
+          description: "Mental health, subjective wellbeing, and resilience across the life course",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_swb/";
+            },},{id: "projects-schooling-and-social-mobility",
+          title: 'Schooling and Social Mobility',
+          description: "Education systems, transitions to work, and intergenerational mobility",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_schooling_and_mobility/";
             },},{
         id: 'social-cv',
         title: 'CV',
