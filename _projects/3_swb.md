@@ -2,7 +2,7 @@
 layout: page
 title: Wellbeing
 description: Mental health, subjective wellbeing, and resilience across the life course
-img: 
+img: assets/img/free_hugs.jpg
 importance: 3
 category: work
 related_publications: true
@@ -40,3 +40,7 @@ Understanding wellbeing dynamics during crises is essential for designing respon
 ## Selected Publications
 
 {% bibliography --cited %}
+
+---
+
+*Header image: "Free Hugs for Mental Health" by [Garry Knight](https://www.flickr.com/photos/garryknight/49603076583/), licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). No changes made.*
