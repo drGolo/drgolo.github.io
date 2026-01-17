@@ -82,7 +82,7 @@ ninja.data = [{
               window.location.href = "/projects/3_swb/";
             },},{id: "projects-schooling-and-social-mobility",
           title: 'Schooling and Social Mobility',
-          description: "Education systems, transitions to work, and intergenerational mobility",
+          description: "Education systems, school choice, and intergenerational mobility",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_schooling_and_mobility/";
             },},{
