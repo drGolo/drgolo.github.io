@@ -5,7 +5,7 @@ description: How technological change reshapes skills demand, job quality, and l
 img: assets/img/zenith.jpg
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
 ## Overview
@@ -30,9 +30,8 @@ This work combines task-based measurement of job skill requirements with large-s
 
 ## Key Publications
 
-{% cite henseke2025degrees henseke2025exposed henseke2025contextualising marini2023phd green2021europe green2016should green2016changing %}
+{% bibliography --query @*[key=henseke2025degrees]|@*[key=henseke2025exposed]|@*[key=henseke2025contextualising]|@*[key=marini2023phd]|@*[key=green2021europe]|@*[key=green2016should]|@*[key=green2016changing] %}
 
-{% bibliography --cited %}
 ---
 
 *Header image: "Zenith Z-19 Terminal" by [FlipFlopFlorida](https://www.flickr.com/photos/ajmexico/3281139507/), licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). No changes made.*
