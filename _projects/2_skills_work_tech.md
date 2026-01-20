@@ -10,72 +10,29 @@ related_publications: true
 
 ## Overview
 
-This research examines the intersection of skills, technological change, and labour market outcomes. Using large-scale datasets and computational methods, I analyse how automation and digitisation reshape what workers do, which skills are valued, and who benefits from technological progress. A central focus is understanding heterogeneity - not all skills, workers, or jobs are affected equally by technological change.
+This research cluster examines graduate labour markets, skills utilisation, and technological disruption. The unifying concern is heterogeneity: higher education expansion and technological change do not affect all graduates, jobs, or skills equally. Understanding who benefits—and who doesn't—requires moving beyond average effects to examine how returns vary across fields, occupations, and career paths.
 
-## Key Research Questions
+## Research Questions
 
-- **AI and Automation Exposure**: Which UK jobs and workers are most exposed to generative AI and other forms of automation?
-- **Economic Returns to Skills**: What are the labour market returns to different types of skills, particularly STEM expertise?
-- **Skills Demand and Utilisation**: How has employer demand for graduate-level skills evolved, and how well are workers' skills actually used?
-- **Technology and Inequality**: How do technological changes interact with existing inequalities in pay, job quality, and career progression?
+- How has employer demand for graduate-level skills evolved, and how well are graduates' skills actually utilised?
+- What are the economic returns to STEM education, and why do they vary so much across graduates?
+- Which workers and jobs are most exposed to generative AI, and what does this mean for the future of skilled work?
+- When graduates earn more, is it because of what they know, what they do, or where they work?
 
-## Research Themes
+## Approach
 
-### Generative AI and Work
+This work combines task-based measurement of job skill requirements with large-scale labour market data. Rather than relying on occupational titles or qualification levels, I use detailed information on what workers actually do in their jobs—drawing particularly on the Skills and Employment Survey series. For questions about STEM returns and career trajectories, I work with linked administrative data on education and earnings. Recent work on AI exposure applies natural language processing to measure how job tasks overlap with large language model capabilities.
 
-My recent work on **generative AI exposure** suggests that unlike previous automation waves, GenAI has the potential to affect high-skill, cognitive occupations. Professional and managerial workers - including researchers, lawyers, and analysts - face significant exposure. This challenges assumptions that university education provides robust protection against technological displacement.
+## Funded Projects
 
-Key findings:
-- Exposure to GenAI is concentrated among high-skill workers
-- Women and university-educated workers face higher exposure than in previous automation waves
-- The impact will depend critically on how work is redesigned and whether AI augments or substitutes for human labour
+- **Graduate Labour Market and Equity** — Centre for Global Higher Education, 2020–2024. [Project page](https://www.researchcghe.org/research/graduate-labour-market-and-equity/)
+- **ADR UK Research Fellowship** — Administrative Data Research UK, 2024–2026. [Programme page](https://www.adruk.org/news-publications/news-blogs/mapping-inclusive-pathways-to-stem-careers/)
 
-### STEM Skills and Economic Returns
+## Key Publications
 
-Research on **STEM education and employment** examines the economic returns to STEM skills and qualifications in the labour market. This work investigates:
-- Wage premiums associated with STEM degrees across different fields and occupations
-- Career trajectories of STEM graduates and patterns of occupational mobility
-- The extent to which STEM skills are actually utilised in different jobs
-- Gender gaps in STEM participation and their labour market consequences
-
-A key insight is that STEM skills generate returns not only through direct technical work, but also through their application in management, policy, and adjacent fields. Understanding where and why STEM skills are valued helps inform education policy and career guidance.
-
-### Graduate Skills Demand
-
-My work on **graduate employment** demonstrates substantial variation in how much different occupations actually utilise university-level skills. This "degrees of demand" varies systematically by sector and occupation, with important implications for understanding:
-- Graduate underemployment and skills mismatch
-- The relationship between higher education expansion and labour market outcomes
-- Why returns to university education vary across graduates
-
-This research uses data on the actual skills required in jobs (from the Skills and Employment Survey) to distinguish between jobs that genuinely require graduate-level capabilities and those where graduates work in non-graduate roles.
-
-### Skills Utilisation and Job Quality
-
-Understanding skills in the labour market requires looking beyond credentials to examine how skills are actually used at work. Research using detailed task and skills data reveals:
-- Significant variation in skills utilisation even among workers with similar qualifications
-- The relationship between skills use, job quality, and worker wellbeing
-- How work organisation and management practices shape whether workers' skills are effectively deployed
-
-## Methodological Approaches
-
-This research employs diverse methods:
-- Natural language processing and machine learning to measure AI exposure
-- Econometric analysis of large-scale labour force data
-- Detailed survey data on skills use and job tasks
-- Comparative analysis across occupations, sectors, and demographic groups
-
-## Policy Implications
-
-This work informs policy debates about:
-- **Education and Training**: Moving beyond simple "upskilling" narratives to focus on which skills are genuinely valued and how they're used
-- **Industrial Strategy**: Understanding how technology affects different industries and what supports workers need
-- **Labour Market Regulation**: Addressing job quality and work redesign, not just skills supply
-- **Equality**: Recognising that technological change can exacerbate or reduce existing inequalities depending on policy choices
-
-## Selected Publications
+{% cite henseke2025degrees henseke2025exposed henseke2025contextualising marini2023phd green2021europe green2016should green2016changing %}
 
 {% bibliography --cited %}
-
 ---
 
 *Header image: "Zenith Z-19 Terminal" by [FlipFlopFlorida](https://www.flickr.com/photos/ajmexico/3281139507/), licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). No changes made.*
