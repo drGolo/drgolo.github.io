@@ -10,7 +10,7 @@ related_publications: false
 
 ## Overview
 
-This research cluster examines graduate labour markets, skills utilisation, and technological disruption. The unifying concern is heterogeneity: higher education expansion and technological change do not affect all graduates, jobs, or skills equally. Understanding who benefits—and who doesn't—requires moving beyond average effects to examine how returns vary across fields, occupations, and career paths.
+This research cluster examines graduate labour markets, skills utilisation, and technological disruption. The unifying concern is heterogeneity: higher education expansion and technological change do not affect all graduates, jobs, or skills equally. Understanding who benefits—and who doesn't—requires moving beyond average effects to examine how returns vary across fields, occupations, firms, and career paths.
 
 ## Research Questions
 
@@ -21,7 +21,7 @@ This research cluster examines graduate labour markets, skills utilisation, and 
 
 ## Approach
 
-This work combines task-based measurement of job skill requirements with large-scale labour market data. Rather than relying on occupational titles or qualification levels, I use detailed information on what workers actually do in their jobs—drawing particularly on the Skills and Employment Survey series. For questions about STEM returns and career trajectories, I work with linked administrative data on education and earnings. Recent work on AI exposure applies natural language processing to measure how job tasks overlap with large language model capabilities.
+This work combines task-based measurement of job skill requirements with large-scale labour market data. Rather than relying on occupational titles or qualification levels, I use detailed information on what workers actually do in their jobs—drawing particularly on the Skills and Employment Survey series. For questions about STEM returns and career progression, I work with linked administrative data on education and earnings. Recent work on AI exposure applies natural language processing to measure how job tasks overlap with large language model capabilities.
 
 ## Funded Projects
 
@@ -30,7 +30,7 @@ This work combines task-based measurement of job skill requirements with large-s
 
 ## Key Publications
 
-{% bibliography --query @*[key=henseke2025degrees]|@*[key=henseke2025exposed]|@*[key=henseke2025contextualising]|@*[key=marini2023phd]|@*[key=green2021europe]|@*[key=green2016should]|@*[key=green2016changing] %}
+{% bibliography --query @*[key=henseke2025degrees]|@*[key=henseke2025exposed]|@*[key=green2021europe]|@*[key=green2016should]|@*[key=green2016changing] %}
 
 ---
 
