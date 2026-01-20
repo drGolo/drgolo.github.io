@@ -5,7 +5,7 @@ permalink: /projects/
 description: Understanding work, skills, and opportunity in a changing economy.
 nav: true
 nav_order: 3
-display_categories: [themes]
+display_categories: [work]
 horizontal: false
 ---
 
