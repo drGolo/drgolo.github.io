@@ -4,7 +4,7 @@ title: Skills and Employment Surveys
 description: Major series of repeated cross-sectional surveys tracking job quality and skills in Britain
 img: assets/img/ses.jpg
 importance: 1
-category: work
+category: themes
 related_publications: true
 ---
 

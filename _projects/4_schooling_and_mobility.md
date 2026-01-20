@@ -4,7 +4,7 @@ title: Schooling and Social Mobility
 description: Education systems, school choice, and intergenerational mobility
 img: assets/img/school_gate.jpg
 importance: 4
-category: work
+category: themes
 related_publications: true
 ---
 
