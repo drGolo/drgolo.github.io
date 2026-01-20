@@ -4,7 +4,7 @@ title: Wellbeing
 description: Mental health, subjective wellbeing, and resilience across the life course
 img: assets/img/free_hugs.jpg
 importance: 3
-category: themes
+category: work
 related_publications: true
 ---
 
