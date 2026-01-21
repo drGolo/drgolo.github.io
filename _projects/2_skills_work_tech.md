@@ -30,7 +30,7 @@ This work combines task-based measurement of job skill requirements with large-s
 
 ## Key Publications
 
-{% bibliography --query @*[key=henseke2025degrees]|@*[key=henseke2025exposed]|@*[key=green2021europe]|@*[key=green2016should]|@*[key=green2016changing] --group_by none %}
+{% bibliography --query @*[key=henseke2025degrees]|@*[key=henseke2025exposed]|@*[key=green2021europe]|@*[key=green2016should] --group_by none %}
 
 ---
 

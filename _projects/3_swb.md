@@ -5,41 +5,30 @@ description: Mental health, subjective wellbeing, and resilience across the life
 img: assets/img/free_hugs.jpg
 importance: 3
 category: work
-related_publications: true
+related_publications: false
 ---
 
 ## Overview
 
-This research examines subjective wellbeing, mental health, and resilience, with particular attention to how major disruptions like the COVID-19 pandemic affected different population groups. Using longitudinal data and econometric methods, I track wellbeing trajectories and identify protective and risk factors across different life stages.
+This research examines subjective wellbeing and mental health, with particular attention to how long-term trends and economic disruptions affect different population groups. The focus is on young people's transitions through education and into work—periods when wellbeing is particularly sensitive to labour market conditions and future prospects. A key concern is understanding heterogeneity: who recovers from shocks, who doesn't, and why.
 
-## Key Research Areas
+## Research Questions
 
-- **COVID-19 Mental Health Impact**: How did the pandemic affect mental health across different age groups, particularly young people?
-- **Wellbeing Inequalities**: Which groups experienced the greatest wellbeing losses during crises, and what explains these disparities?
-- **Adaptation and Resilience**: How do individuals adapt to negative shocks over time, and what factors promote resilience?
+- How do economic crises and labour market disruptions affect young people's mental health and life satisfaction?
+- What explains variation in wellbeing trajectories—why do some individuals recover while others experience persistent difficulties?
+- How do employment prospects, social connections, and future orientations shape wellbeing during periods of uncertainty?
 
-## Key Findings
+## Approach
 
-My research on **COVID-19's mental health impact** challenges early narratives about universal mental health crises. While young people experienced significant deterioration in mental health during lockdowns, there was substantial heterogeneity. Some groups showed remarkable resilience, while others faced persistent difficulties.
+This work uses longitudinal data to track wellbeing over time, distinguishing temporary responses from lasting effects. The COVID-19 pandemic provided a natural experiment for studying how major disruptions propagate through different population groups. By combining high-frequency panel data with longer-running cohort studies, the research separates pandemic-specific effects from pre-existing trends in youth mental health.
 
-Work on **living with COVID-19** demonstrates that as acute crisis phases ended, many individuals adapted to the "new normal," though young people's wellbeing recovery lagged behind other age groups. This highlights the importance of targeted support during extended crises.
+## Funded Projects
 
-## Methodological Contributions
+- [**Youth Economic Activity and Health (YEAH) Monitor**](https://gtr.ukri.org/projects?ref=ES%2FV01577X%2F1) — ESRC, 2020–2023. PI. Cross-national study of pandemic consequences for youth employment, learning and wellbeing in the UK, Germany, Canada and Ireland.
 
-- Using high-frequency longitudinal data to capture rapid wellbeing changes
-- Distinguishing between temporary crisis responses and lasting mental health effects
-- Examining heterogeneous treatment effects across demographic groups
+## Key Publications
 
-## Policy Relevance
-
-Understanding wellbeing dynamics during crises is essential for designing responsive mental health services and social support systems. The research highlights the need for:
-- Age-specific mental health interventions
-- Attention to cumulative disadvantage during extended disruptions
-- Proactive support systems that can scale rapidly during crises
-
-## Selected Publications
-
-{% bibliography --cited %}
+{% bibliography --query @*[key=henseke2025revisiting]|@*[key=henseke2022living]|@*[key=schoon2022social] --group_by none %}
 
 ---
 
