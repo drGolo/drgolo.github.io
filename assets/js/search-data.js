@@ -80,9 +80,9 @@ ninja.data = [{
           description: "Mental health, subjective wellbeing, and resilience across the life course",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_swb/";
-            },},{id: "projects-schooling-and-social-mobility",
-          title: 'Schooling and Social Mobility',
-          description: "Education systems, school choice, and intergenerational mobility",
+            },},{id: "projects-education-and-inequality",
+          title: 'Education and Inequality',
+          description: "School systems, educational choice, and the reproduction of advantage",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_schooling_and_mobility/";
             },},{
