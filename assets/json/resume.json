@@ -291,8 +291,8 @@
   "projects": [
     {
       "name": "ADR UK Research Fellowship",
-      "summary": "ESRC-funded research fellowship focusing on administrative data research applications in labour markets and skills.",
-      "highlights": ["Administrative Data Research", "Labour Market Analysis"],
+      "summary": "ESRC-funded research fellowship focusing on STEM skills in the labour market using administrative data.",
+      "highlights": ["Administrative Data Research", "Labour Market Analysis", "Economic Returns to STEM"],
       "startDate": "2024-06-01",
       "endDate": "2026-03-01",
       "url": ""
