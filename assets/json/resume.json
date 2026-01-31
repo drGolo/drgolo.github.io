@@ -3,7 +3,7 @@
     "name": "Dr Golo Henseke",
     "label": "Associate Professor",
     "image": "",
-    "email": "",
+    "email": "g.henseke@ucl.ac.uk",
     "phone": "",
     "url": "https://profiles.ucl.ac.uk/48062-golo-henseke",
     "summary": "Dr Golo Henseke is an Associate Professor at the UCL Institute of Education. His research focuses on skills, labour markets, technological change, subjective well-being and quantitative measurement methods. He has expertise in designing and managing large survey datasets, conducting complex statistical analysis, and leading large-scale research projects. His work is published in Oxford Economic Papers, ILR Review, British Journal of Industrial Relations, and New Technology, Work and Employment.",
@@ -42,7 +42,7 @@
       "startDate": "2014-01-01",
       "endDate": "2015-01-01",
       "summary": "Quantitative research support and consultancy work on skills utilisation and development.",
-      "highlights": []
+      "highlights": ["Designed and Delivered research on skills and learning"]
     },
     {
       "name": "University of Rostock and Institute for Employment Research",
@@ -65,7 +65,7 @@
       "startDate": "2005-01-01",
       "endDate": "2011-01-01",
       "score": "magna cum laude",
-      "courses": ["Essays on labor market consequences and challenges of demographic change"]
+      "courses": ["Essays on labour market consequences and challenges of demographic change"]
     },
     {
       "institution": "University of Rostock",
