@@ -44,21 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "projects-skills-and-employment-surveys",
+        },{id: "projects-skills-and-employment-surveys",
           title: 'Skills and Employment Surveys',
           description: "Major series of repeated cross-sectional surveys tracking job quality and skills in Britain",
           section: "Projects",handler: () => {
