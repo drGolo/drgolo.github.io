@@ -23,4 +23,4 @@ latest_posts:
   enabled: false # disabled blog posts
 ---
 
- Associate Professor at the IOE, UCL's Faculty of Education and Society, specialising in applied economics and quantitative social sciences. I am associated with the [LLAKES Research Centre](https://www.llakes.ac.uk/) and the Oxford-based [Centre for Global Higher Education](https://www.researchcghe.org/). My research focuses on labour market dynamics, skills, and well-being. For more information, visit [UCL Profile](https://profiles.ucl.ac.uk/48062-golo-henseke).
+Associate Professor at UCL Institute of Education, specialising in applied economics and quantitative social sciences. I study how education, skills and new technologies — especially generative AI — reshape jobs, inequality and life chances. I am associated with the [LLAKES Research Centre](https://www.llakes.ac.uk/) and the Oxford-based [Centre for Global Higher Education](https://www.researchcghe.org/). For publication and profile: [UCL Profile](https://profiles.ucl.ac.uk/48062-golo-henseke).
