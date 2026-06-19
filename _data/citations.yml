@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-06-19'
 papers:
   u-beBIQAAAAJ:-95Q15plzcUC:
     citations: 1
@@ -26,19 +26,23 @@ papers:
     title: Essays on labor market consequences and challenges of demographic change
     year: '2011'
   u-beBIQAAAAJ:2v_ZtQDX9iAC:
-    citations: 1730
+    citations: 1772
     title: "Assessing the growth of remote working and its consequences for effort, well\u2010being and work\u2010life balance"
     year: '2017'
+  u-beBIQAAAAJ:3A3nxV7CjKIC:
+    citations: 0
+    title: 'Facilitating intergenerational social mobility through higher education: three challenges for policymakers'
+    year: '2026'
   u-beBIQAAAAJ:4aZ_i-5WJEQC:
-    citations: 113
+    citations: 118
     title: Working still harder
     year: '2022'
   u-beBIQAAAAJ:6ZzL7HXColQC:
-    citations: 0
+    citations: 1
     title: 'The spatial anatomy of working at home: concepts, measures and types of spaces used'
     year: '2026'
   u-beBIQAAAAJ:7H_jS4BsgvYC:
-    citations: 2
+    citations: 3
     title: What makes work meaningful? Findings from the Skills and Employment Survey 2024
     year: '2025'
   u-beBIQAAAAJ:8Xgff_V0N9gC:
@@ -46,7 +50,7 @@ papers:
     title: "Fertilit\xE4tsentwicklung in ausgew\xE4hlten Industriel\xE4ndern"
     year: '2011'
   u-beBIQAAAAJ:9NZAP19TdFAC:
-    citations: 2
+    citations: 3
     title: Is the office dying? Findings from the Skills and Employment Survey 2024
     year: '2025'
   u-beBIQAAAAJ:9yKSN-GCB0IC:
@@ -57,8 +61,12 @@ papers:
     citations: 0
     title: Education and the Changing Structure of Opportunities for Young People in England
     year: '2017'
+  u-beBIQAAAAJ:BAanoTsO0WEC:
+    citations: 0
+    title: "Diluting exclusivity? The prevalence and distribution of bursaries and scholarships for Britain\u2019s private schools"
+    year: '2026'
   u-beBIQAAAAJ:BJrgspguQaEC:
-    citations: 22
+    citations: 23
     title: Inequality at work and employees' perceptions of organisational fairness
     year: '2021'
   u-beBIQAAAAJ:BmWJbWwHJAwC:
@@ -70,7 +78,7 @@ papers:
     title: "Bew\xE4ltigung der Folgen des demografischen Wandels"
     year: '2011'
   u-beBIQAAAAJ:D_tqNUsBuKoC:
-    citations: 41
+    citations: 42
     title: 'Work intensity in Britain: First findings from the Skills and Employment Survey 2017'
     year: '2018'
   u-beBIQAAAAJ:DyXnQzXoVgIC:
@@ -90,7 +98,7 @@ papers:
     title: Has the tide turned for Trade Unions? Findings from the Skills and Employment Survey 2024
     year: '2025'
   u-beBIQAAAAJ:G1UMdFYMoxkC:
-    citations: 103
+    citations: 107
     title: "Europe\u2019s evolving graduate labour markets: supply, demand, underemployment and pay"
     year: '2021'
   u-beBIQAAAAJ:H_jBuBxbQIAC:
@@ -122,7 +130,7 @@ papers:
     title: "Singapore\u2019s graduate labour market, 2013/2017: A task-based analysis"
     year: '2020'
   u-beBIQAAAAJ:L24QuVWYgZ0C:
-    citations: 1
+    citations: 0
     title: What is happening to participation at work? Findings from the Skills and Employment Survey 2024
     year: '2025'
   u-beBIQAAAAJ:LGlY6t8CeOMC:
@@ -150,23 +158,27 @@ papers:
     title: Private schooling, subject choice, upper secondary attainment and progression to university
     year: '2020'
   u-beBIQAAAAJ:NxmKEeNBbOMC:
-    citations: 46
+    citations: 47
     title: 'Determinants of private school participation: All about the money?'
     year: '2020'
   u-beBIQAAAAJ:O0nohqN1r9EC:
     citations: 0
     title: 'Trends in Workforce Training in the UK since 2011: Thematic Analysis of Data from the Employer Skills Survey'
     year: '2015'
+  u-beBIQAAAAJ:PuOEWVtPfzwC:
+    citations: 0
+    title: 'From Exposure to Adoption: Generative AI in European Workplaces'
+    year: '2026'
   u-beBIQAAAAJ:QVtou7C4vgoC:
     citations: 3
     title: "Demographic change and industry-speeifie innovation partern in Germany, Universit\xE4t Rostock: Th\xFCnen-Series of Applied Economic Theory"
     year: '2007'
   u-beBIQAAAAJ:QoJ_w57xiyAC:
-    citations: 5
+    citations: 6
     title: "Private school pupils\u2019 performance in GCSEs (and IGCSEs)"
     year: '2024'
   u-beBIQAAAAJ:RMgMIBzvq-4C:
-    citations: 2
+    citations: 3
     title: 'Contextualising the extrinsic outcomes of higher education during mass expansion: an introduction'
     year: '2025'
   u-beBIQAAAAJ:RoXSNcbkSzsC:
@@ -178,7 +190,7 @@ papers:
     title: 'APHERP symposium session III: Higher education graduate employment for uncertain futures'
     year: '2020'
   u-beBIQAAAAJ:T_ojBgVMvoEC:
-    citations: 26
+    citations: 27
     title: Private benefits? External benefits? Outcomes of private schooling in 21st century Britain
     year: '2020'
   u-beBIQAAAAJ:TaaCk18tZOkC:
@@ -214,8 +226,8 @@ papers:
     title: Youth life satisfaction during the COVID-19 pandemic in a cross-national comparison
     year: '2022'
   u-beBIQAAAAJ:XDrR66g3YHsC:
-    citations: 2
-    title: 'Degrees of difference: international higher education and social mobility'
+    citations: 5
+    title: 'Degrees of Difference. Intergenerational Social Mobility and Higher Education Internationally: A Comparative Perspective.'
     year: '2025'
   u-beBIQAAAAJ:Xl6nMSl579sC:
     citations: 92
@@ -242,7 +254,7 @@ papers:
     title: Career Ready? UK Youth during the Covid-19 Crisis.
     year: '2021'
   u-beBIQAAAAJ:Zh0EY9V9P6UC:
-    citations: 17
+    citations: 18
     title: Training trends in Britain
     year: '2019'
   u-beBIQAAAAJ:ZqE1mSdD_DYC:
@@ -258,7 +270,7 @@ papers:
     title: The darkest hour
     year: '2021'
   u-beBIQAAAAJ:c59VksA5Vz4C:
-    citations: 13
+    citations: 14
     title: "Is a PhD worth more than a Master\u2019s in the UK labour market? The role of specialisation and managerial position"
     year: '2023'
   u-beBIQAAAAJ:cBPnxVikjH8C:
@@ -282,7 +294,7 @@ papers:
     title: "Alterung in Berufen: Der Beitrag \xF6konomischer Einfl\xFCsse"
     year: '2013'
   u-beBIQAAAAJ:hGdtkIFZdKAC:
-    citations: 48
+    citations: 50
     title: 'Social inequalities in young people''s mental distress during the COVID-19 pandemic: Do psychosocial resource factors matter?'
     year: '2022'
   u-beBIQAAAAJ:hQUaER0FWQ4C:
@@ -294,7 +306,7 @@ papers:
     title: Against the grain? Assessing graduate labour market trends in Germany through a task-based indicator of graduate jobs
     year: '2019'
   u-beBIQAAAAJ:hvmnpdAuIbkC:
-    citations: 38
+    citations: 40
     title: Income, housing wealth, and private school access in Britain
     year: '2021'
   u-beBIQAAAAJ:jtI9f0ekYq0C:
@@ -322,7 +334,7 @@ papers:
     title: The Darkest Hour? New Evidence of the learning experiences, well-being and expectations of youth during the third national lockdown in the UK
     year: '2021'
   u-beBIQAAAAJ:pQTOvowfQioC:
-    citations: 14
+    citations: 15
     title: Navigating an uncertain future
     year: '2023'
   u-beBIQAAAAJ:qe6vwMD2xtsC:
@@ -334,7 +346,7 @@ papers:
     title: "Wohlstand ohne Kinder?: sozio\xF6konomische Rahmenbedingungen und Geburtenentwicklung im internationalen Vergleich"
     year: '2011'
   u-beBIQAAAAJ:qwy9JoKyICEC:
-    citations: 59
+    citations: 60
     title: Who chooses private schooling in Britain and why?
     year: '2017'
   u-beBIQAAAAJ:rCNdntzdTkkC:
@@ -342,11 +354,11 @@ papers:
     title: 'Revisiting the mental health impact of COVID-19 on young adults in the UK: Long-Term trends, temporary setbacks, and recovery'
     year: '2025'
   u-beBIQAAAAJ:rbm3iO8VlycC:
-    citations: 85
+    citations: 87
     title: 'The determinants of skills use and work pressure: A longitudinal analysis'
     year: '2019'
   u-beBIQAAAAJ:s85pQhAUCrAC:
-    citations: 34
+    citations: 35
     title: 'Living with COVID-19: Subjective well-being in the second phase of the pandemic'
     year: '2022'
   u-beBIQAAAAJ:s9ia6_kGH2AC:
@@ -358,7 +370,7 @@ papers:
     title: "Cross-national deployment of \u201Cgraduate jobs\u201D: analysis using a new indicator based on high skills use"
     year: '2017'
   u-beBIQAAAAJ:silx2ntsSuwC:
-    citations: 67
+    citations: 68
     title: "The implications of direct participation for organisational commitment, job satisfaction and affective psychological well\u2010being: a longitudinal analysis"
     year: '2017'
   u-beBIQAAAAJ:t-hv7AR41mYC:
@@ -402,7 +414,7 @@ papers:
     title: "Fertigkeiten, Fertigkeitsanforderungen und Arbeitsorganisation in Grossbritannien: Trends \xFCber das letzten Vierteljahrhundert"
     year: '2016'
   u-beBIQAAAAJ:yeL6HyUMUGUC:
-    citations: 4
+    citations: 7
     title: How exposed are uk jobs to generative ai? developing and applying a novel task-based index
     year: '2025'
   u-beBIQAAAAJ:z6xuaG2dYH0C:
@@ -410,7 +422,7 @@ papers:
     title: What are the best measures of good work? Three Principles for measurement selection
     year: '2018'
   u-beBIQAAAAJ:zGdJYJv2LkUC:
-    citations: 175
+    citations: 176
     title: Should governments of OECD countries worry about graduate underemployment?
     year: '2016'
   u-beBIQAAAAJ:zUl2_INMlC4C:
@@ -418,6 +430,6 @@ papers:
     title: Unclassified EDU/WKP (2016) 18
     year: '2016'
   u-beBIQAAAAJ:zwpXiJ37cpgC:
-    citations: 29
+    citations: 30
     title: "Getting the measure of employee\u2010driven innovation and its workplace correlates"
     year: '2020'
